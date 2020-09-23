@@ -1,4 +1,4 @@
-# ML-WebApp-using-Streamlit
+# ML-WebApp-utilizando-Streamlit
 
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sagnik20/ML-WebApp-using-Streamlit/graphs/commit-activity) [![GitHub issues](https://img.shields.io/github/issues/sagnik20/ML-WebApp-using-Streamlit)](https://github.com/sagnik20/ML-WebApp-using-Streamlit/issues)
@@ -12,7 +12,7 @@ If you found this project useful, then please consider giving it a :star: on Git
 
 ## Project Created & Maintained By
 
-### Sagnik Chattopadhyaya
+### Roberto Varela
 
 Microsoft Student Partner, Student, Working for betterment of all, Competitive Coder, YouTuber
 
